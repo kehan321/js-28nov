@@ -1,0 +1,15 @@
+
+
+
+.display {
+    text-align: center;
+}
+.calculator {
+    width: 320px;
+   
+}
+.btnParent {
+    width: 60px;
+    height: 60px;
+    margin: 5px;
+}
